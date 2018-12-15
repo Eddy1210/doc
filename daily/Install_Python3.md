@@ -58,3 +58,5 @@ ln -s /usr/local/python3.7/bin/pip3 /usr/bin/pip3
 ```
 pip3 install -U pip
 ```
+
+[附 Centos7 升级安装 Python2.7.15](https://woj.app/3999.html)
