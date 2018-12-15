@@ -32,3 +32,8 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
 ```
 yum clean all
 ```
+
+### 五、列出可用的 YUM 源，注意状态一列必须有值，且不为 0
+```
+yum repolist
+```
