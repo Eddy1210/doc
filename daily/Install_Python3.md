@@ -14,7 +14,7 @@ python3.7的安装之前需要先准备好依赖包，如果是最小安装的Li
 yum groupinstall 'Development Tools' -y
 
 安装依赖包：
-yum install openssl-devel bzip2-devel expat-devel gdbm-devel sqlite-devel libffi-devel
+yum install openssl-devel bzip2-devel expat-devel gdbm-devel sqlite-devel libffi-devel readline-devel.x86_64
 ```
 
 ### 三、编译安装
